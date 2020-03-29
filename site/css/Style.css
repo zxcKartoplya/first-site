@@ -1,0 +1,23 @@
+.yy {	
+	display: inline-block;
+	width: 500px;
+	height: 400px; 
+	margin: 0px 300px 100px 0px;
+}
+.rr  {
+	display: flex;
+	width: calc(100% / 2);
+	height: 300px;
+}
+h1 {
+	height: 300px;
+	width: 600px;
+	margin: 0px 100px 120px 0px;
+}
+.oo {
+	width: 30px;
+	height: 30px;
+}
+body {
+	font-family: 'Merriweather',serif;
+}
